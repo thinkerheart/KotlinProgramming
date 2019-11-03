@@ -1,6 +1,7 @@
 package com.ngocthanhnguyen.kotlinprogramming.oriented_object
 
 fun main() {
+    /*
     println(multiplyLabel(3, 4, "The result is:"))
     println(multiplyLabel(label = "The result is:", operand1 = 3, operand2 = 4))
 
@@ -16,7 +17,10 @@ fun main() {
     printColor(car1, car2, car3, str = "Some Car's colors:")
 
     val cars = arrayOf(car1, car2, car3)
-    printColor(*cars)
+    printColor(*cars)*/
+
+    println(Utils().upperFirstAndLast("ngoc-Thanh NGUYEn"))
+    println("ngoc-Thanh NGUYEn".upperFirstAndLast())
 }
 
 fun multiplyLabel(operand1: Int, operand2: Int, label: String): String {

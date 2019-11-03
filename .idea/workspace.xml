@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a0eaa1c-7774-4e60-9774-63798bd12d69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/javaprogramming/DummyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/basic_difference_kotlin_java/ChallengeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/basic_difference_kotlin_java/DeclarationsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/basic_difference_kotlin_java/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/basic_difference_kotlin_java/HelloWorldKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/data_type/DatatypesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/oriented_object/AccessModifiersKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Employee1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Employee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -237,6 +225,7 @@
       <workItem from="1572627249855" duration="652000" />
       <workItem from="1572627960723" duration="24000" />
       <workItem from="1572725074846" duration="6925000" />
+      <workItem from="1572809544708" duration="2348000" />
     </task>
     <servers />
   </component>
