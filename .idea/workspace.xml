@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a0eaa1c-7774-4e60-9774-63798bd12d69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/AccessModifiers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/AccessModifiers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -79,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt">
+  <component name="RunManager" selected="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -112,32 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.HelloWorldKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ngocthanhnguyen.kotlinprogramming.data_type.DatatypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.data_type.DatatypesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.AccessModifiersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -151,6 +127,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -159,6 +148,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -183,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.data_type.DatatypesKt" />
-      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.HelloWorldKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.DeclarationsKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.AccessModifiersKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
+      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
+      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" />
+        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.AccessModifiersKt" />
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.DeclarationsKt" />
-        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.basic_difference_kotlin_java.HelloWorldKt" />
-        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.data_type.DatatypesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +228,7 @@
       <workItem from="1572627960723" duration="24000" />
       <workItem from="1572725074846" duration="6925000" />
       <workItem from="1572809544708" duration="2348000" />
+      <workItem from="1573476797592" duration="9904000" />
     </task>
     <servers />
   </component>

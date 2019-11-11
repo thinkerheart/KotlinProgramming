@@ -12,24 +12,24 @@ fun main() {
     println(employee2.fullTime)
     */
 
-    var car = Car("blue", "toyota", 2015)
+    val car = Car("blue", "toyota", 2015)
     println(car)
 
-    var car1 = Car("blue", "toyota", 2015)
+    val car1 = Car("blue", "toyota", 2015)
     println(car == car1)
 
-    var car2 = car.copy()
+    val car2 = car.copy()
     println(car2)
     println(car == car2)
 
-    var car3 = car.copy(year = 2016, color = "green")
+    val car3 = car.copy(year = 2016, color = "green")
     println(car3)
 
-    var car4 = Car()
+    val car4 = Car()
     println(car4)
 }
 
-private class Employee (val firstName: String = "", var fullTime: Boolean = true){}
+private class Employee (val firstName: String = "", var fullTime: Boolean = true)
 
 private class Employee1(val fisrtName: String) {
 
@@ -56,4 +56,4 @@ private class Employee2 {
 
 }
 
-data class Car(val color: String = "", val model: String = "", val year: Int = 0) {}
+data class Car(val color: String = "", val model: String = "", val year: Int = 0)

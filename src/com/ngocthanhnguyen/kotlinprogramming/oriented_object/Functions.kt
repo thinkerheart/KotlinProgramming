@@ -53,4 +53,4 @@ class Employee3(var firstName: String = "") {
     fun upperCaseFirstName() = firstName.toUpperCase()
 }
 
-data class Car1(val color: String = "black", val model: String = "Mercedes", val year: Int = 1991) {}
+data class Car1(val color: String = "black", val model: String = "Mercedes", val year: Int = 1991)
