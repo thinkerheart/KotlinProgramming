@@ -16,6 +16,8 @@ fun main() {
     })
 
     println(_thisisMutable)
+
+    println (EDepartment.IT.getDepartmentInfor())
 }
 
 object CompanyCommunication {
@@ -23,7 +25,7 @@ object CompanyCommunication {
     fun getCopyrightLine() = "Copyright \u00A9 $_currentyear our company. All rights reserved."
 }
 
-class SomeClass {
+internal class SomeClass {
     companion object {
         private var _privateVar = 6
         fun accessPrivateVar() = "I'm accessing privateVar: $_privateVar"
@@ -36,4 +38,15 @@ interface SomeInterface {
 
 fun wantsSomeInterface(_si: SomeInterface) {
     println("Printing from wantsSomeInterface ${_si.mustImplement(22)}")
+}
+
+fun topLevelFunction() = "This is a top level function"
+
+enum class EDepartment(val _fulleName: String, val _numOfEmployee: Int) {
+    HR("Human Resource", 5),
+    IT("Information Technology", 10),
+    Sale("Sale", 20),
+    Accounting("Accounting", 3);
+
+    fun getDepartmentInfor() = "The $_fulleName department has $_numOfEmployee employees"
 }

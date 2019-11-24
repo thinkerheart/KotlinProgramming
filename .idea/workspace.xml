@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a0eaa1c-7774-4e60-9774-63798bd12d69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/AccessModifiers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/AccessModifiers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/CompanyCommunication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/oriented_object/CompanyCommunication.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +30,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
         <option value="Kotlin Object" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -59,7 +59,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
@@ -229,6 +229,8 @@
       <workItem from="1572725074846" duration="6925000" />
       <workItem from="1572809544708" duration="2348000" />
       <workItem from="1573476797592" duration="9904000" />
+      <workItem from="1574548911134" duration="929000" />
+      <workItem from="1574551761229" duration="2790000" />
     </task>
     <servers />
   </component>
@@ -247,43 +249,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
