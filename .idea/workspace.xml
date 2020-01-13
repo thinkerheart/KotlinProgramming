@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a0eaa1c-7774-4e60-9774-63798bd12d69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/loop_if_when_try_catch/Loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/loop_if_when_try_catch/Loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/lambda_collection_generic/Lambda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ngocthanhnguyen/kotlinprogramming/lambda_collection_generic/Lambda.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -100,6 +100,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ngocthanhnguyen.delegation.DelegationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.delegation.DelegationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ngocthanhnguyen.delegation.DummyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.delegation.DummyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.ngocthanhnguyen.kotlinprogramming.lambda_collection_generic.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -139,32 +165,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -184,19 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
-      <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.loop_if_when_try_catch.LoopKt" />
       <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.lambda_collection_generic.LambdaKt" />
+      <item itemvalue="Kotlin.com.ngocthanhnguyen.delegation.DelegationKt" />
+      <item itemvalue="Kotlin.com.ngocthanhnguyen.delegation.DummyKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.lambda_collection_generic.LambdaKt" />
+        <item itemvalue="Kotlin.com.ngocthanhnguyen.delegation.DelegationKt" />
+        <item itemvalue="Kotlin.com.ngocthanhnguyen.delegation.DummyKt" />
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.loop_if_when_try_catch.LoopKt" />
         <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.CompanyCommunicationKt" />
-        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.PrinterKt" />
-        <item itemvalue="Kotlin.com.ngocthanhnguyen.kotlinprogramming.oriented_object.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +232,8 @@
       <workItem from="1574551761229" duration="2790000" />
       <workItem from="1574655466829" duration="1817000" />
       <workItem from="1578263758270" duration="11190000" />
+      <workItem from="1578430741506" duration="8000" />
+      <workItem from="1578771956324" duration="7322000" />
     </task>
     <servers />
   </component>

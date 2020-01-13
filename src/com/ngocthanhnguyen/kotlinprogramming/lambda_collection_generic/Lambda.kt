@@ -18,6 +18,8 @@ fun main() {
     }
 
     run(::topLevel)
+
+    showNestedLambda()
 }
 
 fun countTo100(): String {
@@ -54,6 +56,13 @@ fun useParameter(_employees: ArrayList<Employee>, _num: Int) {
     _employees.forEach {
         println(it._firstName)
         println(_num)
+    }
+}
+
+fun showNestedLambda() = "String 1".apply string1@ {
+    "String 2".apply {
+        println(toLowerCase())
+        println(this@string1.toUpperCase())
     }
 }
 
